@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @letnameevil
-- 👀 I’m interested in front-end
+- 👀 I’m a Web Developer
 - 🌱 I’m currently learning python
 - 📫 How to reach me letnameevil@163.com
 
